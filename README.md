@@ -1,1 +1,1 @@
-# slack-dump-mcp
+# Slack Dump MCP
